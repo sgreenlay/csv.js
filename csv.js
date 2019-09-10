@@ -49,7 +49,7 @@
         return table;
     }
 
-    csv.Parse = function (str) {
+    csv.parse = function (str) {
         var table = csvToTable(str);
         var header = table[0];
 
