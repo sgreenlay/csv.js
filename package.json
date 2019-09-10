@@ -1,0 +1,9 @@
+{
+  "name": "csv",
+  "version": "0.0.0",
+  "description": "Simple package to deal with csv files",
+  "main": "csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
